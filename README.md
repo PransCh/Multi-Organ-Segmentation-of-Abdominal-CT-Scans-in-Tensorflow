@@ -21,21 +21,21 @@ Synapse multi-organ segmentation dataset1. We use the 30 abdominal CT scans in t
 
 ## UNET-Results
 The sequence in the images below is `Input Image`, `Ground Truth mask, `Prediction mask`, `Ground Truth overlap` and `Prediction overlap`. <br/> <br/>
-| ![](Results/UNET/IMG-20240321-WA0031.png) |
+| ![](Results/Unet_results/IMG-20240321-WA0031.png) |
 | :--: |
-| ![](Results/UNET/IMG-20240321-WA0032.png) |
-| ![](Results/UNET/IMG-20240321-WA0033.png) |
-| ![](Results/UNET/IMG-20240321-WA0029.png) |
-| ![](Results/UNET/IMG-20240321-WA0026.png) |
+| ![](Results/Unet_results/IMG-20240321-WA0032.png) |
+| ![](Results/Unet_results/IMG-20240321-WA0033.png) |
+| ![](Results/Unet_results/IMG-20240321-WA0029.png) |
+| ![](Results/Unet_results/IMG-20240321-WA0026.png) |
 
 ## UNETR-Results
 The sequence in the images below is `Input Image`, `Ground Truth mask, `Prediction mask`, `Ground Truth overlap` and `Prediction overlap`. <br/> <br/>
-| ![](Results/UNETR/IMG-20240321-WA0061.png) |
+| ![](Results/Unetr_results/IMG-20240321-WA0061.png) |
 | :--: |
-| ![](Results/UNETR/IMG-20240321-WA0057.png) |
-| ![](Results/UNETR/IMG-20240321-WA0059.png) |
-| ![](Results/UNETR/IMG-20240321-WA0060.png) |
-| ![](Results/UNETR/IMG-20240321-WA0053.png) |
+| ![](Results/Unetr_results/IMG-20240321-WA0057.png) |
+| ![](Results/Unetr_results/IMG-20240321-WA0059.png) |
+| ![](Results/Unetr_results/IMG-20240321-WA0060.png) |
+| ![](Results/Unetr_results/IMG-20240321-WA0053.png) |
 
 ## How to improve
 - Train on more epochs.
